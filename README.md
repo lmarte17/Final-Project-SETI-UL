@@ -7,7 +7,6 @@ This project attempts to develop an unsupervised learning approach to SETI (Sear
 The project analyzes a dataset of 7,000 spectrograms containing seven distinct types of signals commonly encountered in SETI research, ranging from narrowband transmissions to squiggle patterns.
 
 
-
 ## Technical Approach
 The project combines advanced image processing, feature engineering, and multiple unsupervised learning techniques:
 
